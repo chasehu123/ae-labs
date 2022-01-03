@@ -1,0 +1,13 @@
+C:\Users\chasehu\Desktop\ae-labs\lab\lab\bin\Debug\lab.exe.config
+C:\Users\chasehu\Desktop\ae-labs\lab\lab\bin\Debug\lab.exe
+C:\Users\chasehu\Desktop\ae-labs\lab\lab\bin\Debug\lab.pdb
+C:\Users\chasehu\Desktop\ae-labs\lab\lab\bin\Debug\ESRI.ArcGIS.AxControls.dll
+C:\Users\chasehu\Desktop\ae-labs\lab\lab\bin\Debug\ESRI.ArcGIS.Version.dll
+C:\Users\chasehu\Desktop\ae-labs\lab\lab\obj\Debug\lab.csproj.AssemblyReference.cache
+C:\Users\chasehu\Desktop\ae-labs\lab\lab\obj\Debug\lab.Form1.resources
+C:\Users\chasehu\Desktop\ae-labs\lab\lab\obj\Debug\lab.Properties.Resources.resources
+C:\Users\chasehu\Desktop\ae-labs\lab\lab\obj\Debug\lab.csproj.GenerateResource.cache
+C:\Users\chasehu\Desktop\ae-labs\lab\lab\obj\Debug\lab.csproj.CoreCompileInputs.cache
+C:\Users\chasehu\Desktop\ae-labs\lab\lab\obj\Debug\lab.csproj.CopyComplete
+C:\Users\chasehu\Desktop\ae-labs\lab\lab\obj\Debug\lab.exe
+C:\Users\chasehu\Desktop\ae-labs\lab\lab\obj\Debug\lab.pdb
